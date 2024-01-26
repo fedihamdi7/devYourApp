@@ -2,9 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
 
-## Development server
+## Demo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<video width="1920" height="360" controls>
+  <source src="src/assets/demo.mp4" type="video/mp4">
+</video>
 
 ## Code scaffolding
 
